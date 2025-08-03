@@ -1,6 +1,8 @@
 #include "ClearingScreenFunctions.h"
 
-#include <cstdlib> 
+#include <iostream>
+#include <cstdlib>
+#include <unistd.h>
 
 // This function clear the screen for most modern terminal
 // -----------------------------------------------------------------------------

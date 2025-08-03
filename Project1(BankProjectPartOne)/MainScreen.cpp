@@ -11,12 +11,12 @@
 
 // The Helper function
 // --------------------------------------------------
-#include "Libraries\PrintingOutputs.h"
-#include "Libraries\ClearingScreenFunctions.h"
-#include "Libraries\ReadingInputs.h"
-#include "Libraries\validingData.h"
+#include "Libraries/PrintingOutputs.h"
+#include "Libraries/ClearingScreenFunctions.h"
+#include "Libraries/ReadingInputs.h"
+#include "Libraries/validingData.h"
 #include <iostream>
-#include "Libraries\Enums.h"
+#include "Libraries/Enums.h"
 #include <stdlib.h>
 #include <unistd.h>
 #include <windows.h>

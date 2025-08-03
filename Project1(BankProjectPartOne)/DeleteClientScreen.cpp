@@ -3,11 +3,11 @@
 #include <string>
 #include <vector>
 
-#include "Libraries\ClientsDataStorage.h"
-#include "Libraries\PrintingOutputs.h"
-#include "Libraries\ReadingInputs.h"
-#include "Libraries\DealingWithStrings.h"
-#include "Libraries\ClientsDataStorage.h"
+#include "Libraries/ClientsDataStorage.h"
+#include "Libraries/PrintingOutputs.h"
+#include "Libraries/ReadingInputs.h"
+#include "Libraries/DealingWithStrings.h"
+#include "Libraries/ClientsDataStorage.h"
 
 using namespace std;
 

@@ -4,9 +4,9 @@
 #include <string>
 #include <vector>
 
-#include "Libraries\Structures.h"
-#include "Libraries\ClientsDataStorage.h"
-#include "Libraries\PrintingOutputs.h"
+#include "Libraries/Structures.h"
+#include "Libraries/ClientsDataStorage.h"
+#include "Libraries/PrintingOutputs.h"
 
 using namespace std;
 

@@ -1,6 +1,6 @@
 #include "ShowClientsListScreen.h"
 
-#include "Libraries\PrintingOutputs.h"
+#include "Libraries/PrintingOutputs.h"
 
 void PrintClientsInfo()
 {
